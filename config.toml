@@ -18,3 +18,7 @@ dbname = 'suai'
 [redis]
 host = ''
 port = 6379
+
+[dynamodb]
+table = ''
+partition_key = ''
